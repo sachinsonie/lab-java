@@ -9,7 +9,7 @@ public class tirchastar {
                 else{
                     System.out.print(" ");
                 }
-            }
+       `      }
             System.out.print("     ");
             for(int j = 0; j < n; j++){
                 if(i+j==(n-1)/2 || j+i==(n-1)/2 || i-j==(n-1)/2 || i+j==(n-1)+(n-1)/2 || j-i==(n-1)/2){
